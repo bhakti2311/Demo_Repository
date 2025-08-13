@@ -12,4 +12,9 @@ public class Test {
 		System.out.println("Substraction Method");
 	}
 
+	public void multiplication()
+	{
+		System.out.println("Multiplication Method")
+	}
+
 }
