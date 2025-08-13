@@ -7,4 +7,9 @@ public class Test {
 		System.out.println("Addition Method");
 	}
 
+	public void substraction()
+	{
+		System.out.println("Substraction Method");
+	}
+
 }
